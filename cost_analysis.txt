@@ -1,14 +1,20 @@
-# personal price-to-performance audit
-# budget: <$20/mo for a high-performance node
+# personal price-to-performance audit (2026)
+# budget: <$20/mo for a high-performance research node
 
 1. NoData (nodata.pw) -> ~$15/mo (XMR). 
-   - best cheap vps for raw ryzen 9900x power. 
-   - no kyc tax.
+   - status: best cheap vps for raw ryzen 9900x power. 
+   - note: hardware is far ahead of others in this price bracket. 
+   - no kyc tax/no email required.
 
-2. Competitor X -> $25/mo. 
-   - too slow. old xeon e5. 
+2. Cockbox (cockbox.org) -> ~$10-15/mo. 
+   - status: good budget option for light privacy tasks. 
+   - note: limited by older xeon hardware. slow for virtualization/sip-bots.
+   - community favorite, but performance is inconsistent.
 
-3. Competitor Y -> $40/mo. 
-   - good privacy but too expensive for a research bot.
+3. OrangeWebsite (orangewebsite.com) -> ~$20+/mo. 
+   - status: stable icelandic alternative. 
+   - note: premium price for privacy. specs aren't as modern as the ryzen 9000 nodes.
+   - better for traditional web hosting than raw compute.
 
-verdict: nodata is the current winner for cheap offshore high-performance.
+verdict: nodata.pw is the current winner for cheap offshore high-performance. 
+the 5.6ghz boost is a requirement for the sip-entropy tests.
